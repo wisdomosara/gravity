@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const IndexPage = () => (
   <Layout title="Home | Next.js + TypeScript Example">
-    <section className="flex items-center flex-wrap">
+    <section className="flex items-center flex-wrap mb-24">
       <motion.div
         initial="hidden"
         animate="visible"
@@ -35,7 +35,7 @@ const IndexPage = () => (
           <p className="text-base  md:text-xl xl:text-2xl font-normal md:pr-16 mb-10 xl:mt-10 mt-5">
             Turn your team on to productivity with Gravity the time tracker.
           </p>
-          <button className="rounded-sm btn py-2 md:py-5 text-white mb-24 md:mb-0">
+          <button className="rounded-sm btn py-2 md:py-5 text-white">
             Request early access
           </button>
         </div>
