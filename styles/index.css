@@ -28,5 +28,7 @@ h1, h2, h3, h4, h5,h6{
 
 body{
   font-family: "SF Pro Display";
-  color: #22322F
+  color: #22322F;
+  max-width: 1440px;
+  margin: 0 auto
 }

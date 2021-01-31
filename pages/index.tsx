@@ -47,15 +47,15 @@ const IndexPage = () => (
         variants={{
           hidden: {
             scale: 0.8,
-            x: 100,
+
             opacity: 0,
           },
           visible: {
             scale: 1,
-            x: 0,
+
             opacity: 1,
             transition: {
-              delay: 0.5,
+              delay: 0.6,
             },
           },
         }}
