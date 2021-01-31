@@ -19,7 +19,7 @@ const IndexPage = () => (
             x: 0,
             opacity: 1,
             transition: {
-              delay: 0.3,
+              delay: 1,
             },
           },
         }}
@@ -55,7 +55,7 @@ const IndexPage = () => (
 
             opacity: 1,
             transition: {
-              delay: 0.6,
+              delay: 0.8,
             },
           },
         }}

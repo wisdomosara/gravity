@@ -30,5 +30,6 @@ body{
   font-family: "SF Pro Display";
   color: #22322F;
   max-width: 1440px;
-  margin: 0 auto
+  margin: 0 auto;
+  background: #f9f9f9
 }
