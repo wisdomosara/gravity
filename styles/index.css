@@ -1,0 +1,32 @@
+	/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+/* purgecss end ignore */
+@tailwind utilities;
+
+h1, h2, h3, h4, h5,h6{
+  font-weight: bold
+}
+
+.btn{
+  border-top: 1px solid black;
+  border-right: 3px solid black;
+  border-bottom: 3px solid black;
+  border-left: 1px solid black;
+  border-radius: 8px;
+  width: 203px;
+  background: #71A89E;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("/fonts/sf/sfDisplay.ttf");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400
+}
+
+body{
+  font-family: "SF Pro Display";
+  color: #22322F
+}
