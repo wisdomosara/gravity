@@ -62,7 +62,7 @@ const IndexPage = () => (
       >
         <div>
           <img
-            src="images/illustration.png"
+            src="/images/illustration.png"
             width="100%"
             height="100%"
             alt=""
