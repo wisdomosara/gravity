@@ -2,7 +2,7 @@ import Layout from "../components/Layout";
 import { motion } from "framer-motion";
 
 const IndexPage = () => (
-  <Layout title="Home | Next.js + TypeScript Example">
+  <Layout title="Gravity Template Ministry Writers Test">
     <section className="flex items-center flex-wrap mb-24">
       <motion.div
         initial="hidden"
