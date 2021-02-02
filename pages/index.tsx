@@ -66,7 +66,6 @@ const IndexPage = () => (
             width="100%"
             height="100%"
             alt=""
-            className="-mt-28"
           />
         </div>
       </motion.div>

@@ -75,17 +75,17 @@ const Layout = ({ children, title = "This is the default title" }: Props) => {
           >
             <div className="hidden md:block">
               <ul className="flex items-center">
-                <li className="pl-10 font-bold text-xl hover:opacity-50">
+                <li className="pl-10 font-bold text-xl hover:opacity-50 cursor-pointer transition-all duration-200">
                   Features
                 </li>
-                <li className="pl-10 font-bold text-xl hover:opacity-50">
+                <li className="pl-10 font-bold text-xl hover:opacity-50 cursor-pointer transition-all duration-200">
                   Pricing
                 </li>
-                <li className="pl-10 font-bold text-xl hover:opacity-50">
+                <li className="pl-10 font-bold text-xl hover:opacity-50 cursor-pointer transition-all duration-200">
                   Why Gravity
                 </li>
                 <li
-                  className="pl-10 font-bold text-xl hover:opacity-50"
+                  className="pl-10 font-bold text-xl hover:opacity-50 cursor-pointer transition-all duration-200"
                   style={{ color: "#71A89E" }}
                 >
                   Sign In
