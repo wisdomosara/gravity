@@ -49,7 +49,7 @@ const Layout = ({ children, title = "This is the default title" }: Props) => {
                 scale: 1,
                 opacity: 1,
                 transition: {
-                  delay: 0.4,
+                  delay: 0.6,
                 },
               },
             }}
@@ -68,7 +68,7 @@ const Layout = ({ children, title = "This is the default title" }: Props) => {
                 scale: 1,
                 opacity: 1,
                 transition: {
-                  delay: 0.6,
+                  delay: 0.7,
                 },
               },
             }}
